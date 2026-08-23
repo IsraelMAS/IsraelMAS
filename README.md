@@ -65,7 +65,7 @@ Mi principal fortaleza está en el **Backend**, especialmente con **Java y Sprin
 ### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,kotlin" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet" alt="Backend technologies" />
 </p>
 
 <p align="left">
